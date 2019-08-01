@@ -1,0 +1,20 @@
+{
+  "name": "seleniumwebdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Vannia Alfaro",
+  "license": "ISC",
+  "dependencies": {
+    "chai-as-promised": "^7.1.1",
+    "chromedriver": "^75.1.0",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
